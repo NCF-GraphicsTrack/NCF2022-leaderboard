@@ -17,6 +17,7 @@
 ## Latest Submission
 |Team|Loss|Grading Time|
 |----|----|------------|
+|NCF2022-sotteoksotteok|0.027362|2023-02-17 01:41|
 |Team_Testo|0.032671|2023-02-17 01:31|
 |NCF2022-sotteoksotteok|0.026512|2023-02-17 00:18|
 |Team_Testo|0.028144|2023-02-16 23:58|
@@ -26,4 +27,3 @@
 |NCF2022-sotteoksotteok|0.026923|2023-02-16 23:26|
 |NCF2022-platform-tjswodud|0.025235|2023-02-16 23:15|
 |NCF2022-platform-tjswodud|0.030610|2023-02-16 22:44|
-|Team_Testo|0.026710|2023-02-16 22:44|
