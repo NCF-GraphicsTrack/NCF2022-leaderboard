@@ -17,6 +17,7 @@
 ## Latest Submission
 |Team|Loss|Grading Time|
 |----|----|------------|
+|Team_Testo|0.023911|2023-02-17 20:31|
 |NCF2022-platform-tjswodud|0.026979|2023-02-17 18:58|
 |NCF2022-sotteoksotteok|0.050797|2023-02-17 18:16|
 |Team_Testo|0.027409|2023-02-17 16:02|
@@ -26,4 +27,3 @@
 |NCF2022-talking-potato|0.007292|2023-02-17 15:31|
 |NCF2022-sotteoksotteok|0.024228|2023-02-17 15:20|
 |NCF2022-talking-potato|0.007292|2023-02-17 15:20|
-|Team_Testo|0.023704|2023-02-17 15:20|
