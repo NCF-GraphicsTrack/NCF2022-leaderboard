@@ -7,8 +7,8 @@
 |2|NCF2022-platform-bonggyuKim|0.014446|2023-02-15 01:19|
 |3|NCF2022-sotteoksotteok|0.023646|2023-02-17 22:08|
 |4|Team_Testo|0.023687|2023-02-17 21:35|
-|5|JJYY|0.023956|2023-02-15 09:23|
 |5|NCF2022-platform-tjswodud|0.023956|2023-02-16 14:58|
+|5|JJYY|0.023956|2023-02-15 09:23|
 |7|NCF2022-sotteoksotteok-sys|0.024460|2023-02-14 00:39|
 |8|NCF2022-sotteocksotteock-sjb|0.026532|2023-02-14 23:35|
 |9|NCF2022_Team_1Dang100|0.028110|2023-02-14 10:32|
@@ -17,6 +17,9 @@
 ## Latest Submission
 |Team|Loss|Grading Time|
 |----|----|------------|
+|NCF2022-platform-tjswodud|0.024930|2023-02-17 23:35|
+|NCF2022-sotteoksotteok|0.041040|2023-02-17 23:35|
+|NCF2022-talking-potato|0.007699|2023-02-17 23:35|
 |NCF2022-sotteoksotteok|0.023898|2023-02-17 23:24|
 |NCF2022-talking-potato|0.007678|2023-02-17 23:24|
 |JJYY|0.027353|2023-02-17 23:13|
@@ -24,6 +27,3 @@
 |NCF2022-talking-potato|0.007687|2023-02-17 23:13|
 |Team_Testo|0.051137|2023-02-17 23:13|
 |JJYY|0.025372|2023-02-17 23:02|
-|NCF2022-sotteoksotteok|0.023890|2023-02-17 23:02|
-|NCF2022-talking-potato|0.007594|2023-02-17 23:02|
-|Team_Testo|0.028694|2023-02-17 23:02|
